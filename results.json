@@ -1,0 +1,11 @@
+{
+  "trials": 50000,
+  "wins_random": 0,
+  "p_random": 0.0,
+  "wins_cycle": 15583,
+  "p_cycle": 0.31166,
+  "N": 100,
+  "K": 50,
+  "seed": 1,
+  "timestamp": "2026-01-15T18:06:13.459810"
+}
