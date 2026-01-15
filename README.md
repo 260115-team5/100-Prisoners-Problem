@@ -17,7 +17,7 @@ A simulation-based implementation of the 100 Prisoners Problem, comparing random
 ## 1. Problem Summary
 
 - 죄수 100명(1~100)이 존재
-- 서랍 100개(1~100)가 있고, 카드 1~100이 **무작위로 1장씩** 들어있음
+- 서랍 100개(1\~100)가 있고, 카드 1\~100이 **무작위로 1장씩** 들어있음
 - 죄수는 **최대 50개**의 서랍만 열 수 있음
 - 자기 번호 카드를 찾으면 성공
 - **100명 전원이 성공해야** 전체가 사면
