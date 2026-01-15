@@ -55,7 +55,7 @@ A simulation-based implementation of the 100 Prisoners Problem, comparing random
 
 ## 4. Project Structure
 
-예시 폴더 구조 (권장)
+예시 폴더 구조
 ```
 
 .
@@ -138,25 +138,22 @@ Cycle Strategy:   wins=6320/20000, p=0.316
 
 ## 8. Development Workflow (3 People)
 
-권장 역할 분리(동시 개발용)
+역할 분리
 
 - Core/Engine: `core/` 담당
 - Strategies: `strategies/` 담당
 - Runner/Report: `report/` 담당
 
-공통 인터페이스만 고정하면 충돌이 거의 없습니다.
-
 ---
 
 ## 9. License
 
-MIT (원하면 변경 가능)
-
+MIT
 ---
 
 ## 10. References
 
-- Wikipedia: _100 prisoners problem_
+- [Wikipedia: _100 prisoners problem_](https://rosettacode.org/wiki/100_prisoners#Python)
 
 ```
 
