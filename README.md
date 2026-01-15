@@ -2,7 +2,7 @@
 
 A simulation-based implementation of the 100 Prisoners Problem, comparing random guessing vs the loop-following strategy and estimating the overall success probability through repeated trials.
 
-```md
+
 # 100 Prisoners Problem Simulator
 
 100 Prisoners Problem을 **몬테카를로 시뮬레이션**으로 검증하는 프로젝트입니다.
@@ -52,8 +52,7 @@ A simulation-based implementation of the 100 Prisoners Problem, comparing random
 ---
 
 ## 4. Project Structure
-```
-
+```md
 .
 ├── core/
 │ ├── model.py # permutation 생성, 공통 데이터 구조
@@ -69,8 +68,7 @@ A simulation-based implementation of the 100 Prisoners Problem, comparing random
 │ └── test_small_cases.py
 ├── requirements.txt
 └── README.md
-
-````
+```
 
 ---
 
@@ -84,7 +82,7 @@ source .venv/bin/activate   # macOS/Linux
 # .venv\Scripts\activate    # Windows
 
 pip install -r requirements.txt
-````
+
 
 ### 5.2 Run Simulation
 
